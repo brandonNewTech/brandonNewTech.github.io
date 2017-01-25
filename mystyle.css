@@ -1,0 +1,65 @@
+body {
+	background: green      
+}
+      
+}
+header {
+      text-align: center;
+      background-size: cover;
+      
+      
+    }
+    
+    h1 {
+      font-size: 70px;
+      color: purple
+     
+    }
+    h2 {
+          text-align: left;
+          
+    }
+    a {
+      color: white;
+      
+    }
+    
+    h1 {
+      font-size: 70px;
+      color: orange
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+          padding: 10px;
+      background:rgba(100,100,100,100);
+      
+    }
+    ol {
+          text-align: left;
+          
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      text-align: left;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;  
+      
+    }
+    @media (max-width: 500px) {
+      h1 {
+       font-size: 36px; 
+       
+      }
+      li {
+        display: block;
+        padding: 5px;
+      }
+  
